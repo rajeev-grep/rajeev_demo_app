@@ -5,7 +5,9 @@
 #   gem 'sqlite3'
 development:
   adapter: mysql2
-  database: demo_app_dev
+  database: rajeev
+  user: adminXbp6lLa
+  password: HZmvbdx3uqjS
   pool: 5
   timeout: 5000
 
