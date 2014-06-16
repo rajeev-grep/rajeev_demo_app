@@ -112,6 +112,7 @@ DEPENDENCIES
   jquery-rails
   mysql2
   rails (= 4.0.5)
+  rake (~> 10.3.2)
   sass-rails (~> 4.0.2)
   sdoc
   turbolinks
